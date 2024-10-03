@@ -1,5 +1,0 @@
-com.example.calculator.test.app-core-1.6.1-0 C:\Users\dalma\.gradle\caches\transforms-4\b8fe4d1a950bfaa65fd41ddf31cfdc13\transformed\core-1.6.1\res
-com.example.calculator.test.app-androidTest-1 D:\Calculator\app\build\generated\res\resValues\androidTest\debug
-com.example.calculator.test.app-mergeDebugAndroidTestResources-2 D:\Calculator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.calculator.test.app-mergeDebugAndroidTestResources-3 D:\Calculator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.calculator.test.app-debugAndroidTest-4 D:\Calculator\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
